@@ -1,0 +1,9 @@
+{
+    //aca añadiremos las configuraciones que tendra babel 
+    "presets": [
+        "@babel/preset-env"
+      ],
+      "plugins": [
+        "@babel/plugin-transform-runtime"
+      ]
+}
